@@ -170,7 +170,7 @@ opacity: 0;
 }
 .things p{
     font-size: 1.3rem;
-    text-align: justify;
+
     text-transform:uppercase;
 }
 @media screen and (max-width:800px){
