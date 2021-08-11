@@ -178,6 +178,13 @@ opacity: 0;
         display: flex;
         justify-content: center;
     }
+    .about-me-col{
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        color: rgb(211, 194, 194);
+    }
 }
 .photo-col img{
     margin: 6rem 3rem 1rem 0;
