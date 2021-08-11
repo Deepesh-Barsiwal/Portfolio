@@ -147,11 +147,10 @@ opacity: 0;
 /*section-2*/
 
 .section-2{
-border: 1px solid white;
+
     background-color:black;
     min-height: 100vh;
     padding: 1rem;
-    
     margin: 0px;
   
 }
