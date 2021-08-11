@@ -93,6 +93,9 @@ left: 10%;
     .icon-line{
         margin: 0 1rem;
     }
+    .photo-col{
+        margin: 0 1rem;
+    }
 }
 .name{
     display: flex;
