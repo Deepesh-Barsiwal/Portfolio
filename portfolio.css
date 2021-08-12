@@ -99,6 +99,9 @@ left: 10%;
     .things p{
         text-align: center;
     }
+    .site-info {
+        text-align: center;
+    }
 }
 .name{
     display: flex;
