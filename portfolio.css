@@ -96,6 +96,12 @@ left: 10%;
     .photo-col{
         margin: 0 1rem;
     }
+    .things p{
+        text-align: center;
+    }
+    .site-info p{
+        text-align: center;
+    }
 }
 .name{
     display: flex;
